@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "The SAT Prep",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Coaching Center, Service establishment, Tutoring service",
+    "pincode": "711308",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Howrah Division",
+    "major_offices": "Chengail SO",
+    "phone_number": "+91 89616 36026",
+    "website": "http://thesatprep.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "The SAT Prep, 711308, India",
+    "area": "711308",
+    "latitude": 40.266869,
+    "longitude": -47.802320699999996,
+    "place_id": "ChIJm0kB4WaHAjoRbW7Tfly2uEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm0kB4WaHAjoRbW7Tfly2uEc",
+    "part_id": "part_316",
+    "crawled_at": "2026-09-20 20:30:43"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Rainbow Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Private hospital",
+    "pincode": "711226",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Howrah Division",
+    "major_offices": "Udaynarayanpur SO, Bairakurchi BO, Gaza BO",
+    "phone_number": "+91 33 7148 2053",
+    "website": "http://rainbowhospital.org/",
+    "rating": 4.2,
+    "reviews_count": 394,
+    "address": "Gangarampur, Rail Bridge, near Uluberia, Uluberia, Howrah, Kolkata, West Bengal 711316",
+    "area": "Kaijuri, Uluberia",
+    "latitude": 22.4693607,
+    "longitude": 88.0837504,
+    "place_id": "ChIJKcyt89eFAjoRmMAthTg0q3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKcyt89eFAjoRmMAthTg0q3A",
+    "part_id": "part_316",
+    "crawled_at": "2026-09-20 20:24:54"
+  }
+]
