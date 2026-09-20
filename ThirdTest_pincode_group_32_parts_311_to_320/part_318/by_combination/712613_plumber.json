@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Amit Electrical & Plumbing Services",
+    "search_category": "Plumber",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "712613",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Hooghly North Division",
+    "major_offices": "Gourhati SO, Beniajole BO, Dihi Bagnan BO",
+    "phone_number": "+91 90837 21150",
+    "website": "https://api.whatsapp.com/send?phone=919083721150",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bandipur, West Bengal 712617",
+    "area": "712613",
+    "latitude": 22.7410155,
+    "longitude": 87.7534214,
+    "place_id": "ChIJ-Z7uwyUP-DkRqcQowALcXj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Z7uwyUP-DkRqcQowALcXj4",
+    "part_id": "part_318",
+    "crawled_at": "2026-09-20 20:34:13"
+  }
+]

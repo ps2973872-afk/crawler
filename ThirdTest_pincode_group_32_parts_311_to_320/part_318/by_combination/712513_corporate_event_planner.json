@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "712513",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Hooghly North Division",
+    "major_offices": "Nayasarai SO, Gopalpur BO",
+    "phone_number": "N/A",
+    "website": "https://gaisa.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "events, 712513, India",
+    "area": "712513",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJw0jCmGzjLIIRR_3-jRbVEKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw0jCmGzjLIIRR_3-jRbVEKw",
+    "part_id": "part_318",
+    "crawled_at": "2026-09-20 20:29:04"
+  }
+]

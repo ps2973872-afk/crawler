@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Ahmed travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Event planner, Taxi service",
+    "pincode": "712504",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Hooghly North Division",
+    "major_offices": "Chandrahati SO",
+    "phone_number": "+91 99032 07146",
+    "website": "http://www.ahmedtravelsindia.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "6 nurullah, Doctor Ln, Circuse avenue, Kolkata, West Bengal 700017",
+    "area": "Lower Range, Park Circus, Circuse avenue",
+    "latitude": 22.541754299999997,
+    "longitude": 88.3615817,
+    "place_id": "ChIJC7tgHOF3AjoRypcXFpH40mg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC7tgHOF3AjoRypcXFpH40mg",
+    "part_id": "part_318",
+    "crawled_at": "2026-09-20 20:27:14"
+  }
+]

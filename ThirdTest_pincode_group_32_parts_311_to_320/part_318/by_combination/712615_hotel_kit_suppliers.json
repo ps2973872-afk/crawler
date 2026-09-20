@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Hotel Distributors",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store, Service establishment",
+    "pincode": "712615",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Hooghly North Division",
+    "major_offices": "Batanal SO, Bhalia BO, Golta BO",
+    "phone_number": "N/A",
+    "website": "https://hoteldistributors.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hotel Distributors, 712615, India",
+    "area": "712615",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJNykNQ1fTB64RQCsCnvbbUw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNykNQ1fTB64RQCsCnvbbUw0",
+    "part_id": "part_318",
+    "crawled_at": "2026-09-20 20:35:54"
+  }
+]
