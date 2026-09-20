@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Canteen C1",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Family restaurant",
+    "pincode": "713407",
+    "circle": "West bengal circle",
+    "region": "South Bengal Region",
+    "division": "Burdwan Division",
+    "major_offices": "Balgona BO, Begut BO, Bonogram BO",
+    "phone_number": "+91 95640 12012",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Khosbagan, Bardhaman, West Bengal 713101",
+    "area": "Khosbagan",
+    "latitude": 23.2372743,
+    "longitude": 87.8663011,
+    "place_id": "ChIJL4ooYcVJ-DkR3_RC4TcMpxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4ooYcVJ-DkR3_RC4TcMpxQ",
+    "part_id": "part_320",
+    "crawled_at": "2026-09-20 20:43:38"
+  }
+]

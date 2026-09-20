@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Gupta Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Indian grocery store",
+    "pincode": "713369",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Asansol Division",
+    "major_offices": "Kalyaneshwari SO",
+    "phone_number": "+91 70016 05105",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 9,
+    "address": "Kulti Station Rd, Kulti, West Bengal 713343",
+    "area": "713369",
+    "latitude": 23.7389872,
+    "longitude": 86.847537,
+    "place_id": "ChIJnwylcyTe9jkRTEKrct8XZ4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnwylcyTe9jkRTEKrct8XZ4c",
+    "part_id": "part_320",
+    "crawled_at": "2026-09-20 20:31:52"
+  }
+]

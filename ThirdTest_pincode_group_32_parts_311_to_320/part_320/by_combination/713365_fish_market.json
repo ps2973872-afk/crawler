@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Fish market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "713365",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Asansol Division",
+    "major_offices": "Chittaranjan TS SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VW99+9J4, Fatehpur, Chittaranjan, West Bengal 713365",
+    "area": "Fatehpur",
+    "latitude": 23.868389399999998,
+    "longitude": 86.9190686,
+    "place_id": "ChIJgaUjDgAn9zkRZ8ACvc2GWF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgaUjDgAn9zkRZ8ACvc2GWF4",
+    "part_id": "part_320",
+    "crawled_at": "2026-09-20 20:31:09"
+  }
+]
