@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "India Post",
+    "search_category": "EXIMS",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "713130",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Burdwan Division",
+    "major_offices": "Katwa HO, Atuhatpara SO, Katwa Bazar SO",
+    "phone_number": "N/A",
+    "website": "http://www.indiapost.gov.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "J4RG+MJX, Kachari Road, Sanhati Pally, Katwa, West Bengal 713130",
+    "area": "Sanhati Pally",
+    "latitude": 23.6417494,
+    "longitude": 88.126598,
+    "place_id": "ChIJORWzAdmm-TkRCZRg3FBXneQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJORWzAdmm-TkRCZRg3FBXneQ",
+    "part_id": "part_318",
+    "crawled_at": "2026-09-20 20:51:21"
+  }
+]
