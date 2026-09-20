@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Al-Shifa Eye Care & Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "713340",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Asansol Division",
+    "major_offices": "Kalla Central Hospital SO",
+    "phone_number": "+91 93543 49449",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "OK Rd, Railpar, Asansol, West Bengal 713302",
+    "area": "Railpar",
+    "latitude": 23.6978711,
+    "longitude": 86.9723563,
+    "place_id": "ChIJBSxTGkEf9zkRfn62TyJ7z74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBSxTGkEf9zkRfn62TyJ7z74",
+    "part_id": "part_320",
+    "crawled_at": "2026-09-20 20:20:43"
+  }
+]
