@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Das Plumbing",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Service establishment",
+    "pincode": "711203",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Howrah Division",
+    "major_offices": "Bhattanagar SO",
+    "phone_number": "+91 74397 09205",
+    "website": "https://daplumbing.netlify.app/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Das Plumbing, 711203, India",
+    "area": "711203",
+    "latitude": 22.498939399999998,
+    "longitude": 88.31438899999999,
+    "place_id": "ChIJby1WQPSzcQ8RkX5K61qYdhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJby1WQPSzcQ8RkX5K61qYdhk",
+    "part_id": "part_316",
+    "crawled_at": "2026-09-20 20:21:47"
+  }
+]
