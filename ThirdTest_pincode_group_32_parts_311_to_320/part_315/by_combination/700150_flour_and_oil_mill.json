@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Sakshi Store",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Flour mill, General store, Indian grocery store",
+    "pincode": "700150",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Presidency Division",
+    "major_offices": "Sonarpur SO, Hadia BO, Kamrabad BO",
+    "phone_number": "+91 96811 04460",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "22A/7, Trinathpally, Sector IV, Bidhannagar, Kolkata, West Bengal 700107",
+    "area": "Trinathpally, Sector IV, Bidhannagar",
+    "latitude": 22.5454142,
+    "longitude": 88.4243825,
+    "place_id": "ChIJn5jB8Xd1AjoROycJdKkHby4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5jB8Xd1AjoROycJdKkHby4",
+    "part_id": "part_315",
+    "crawled_at": "2026-09-20 20:35:09"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Amar Recipe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Bengali restaurant, Breakfast restaurant, Chinese restaurant, Chinese takeaway, Indian takeaway, Takeout restaurant, Restaurant, Rice restaurant, South Indian restaurant",
+    "pincode": "700149",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Presidency Division",
+    "major_offices": "Rajpur SO South 24 Parganas, Chowhati BO, Rajpur Bazar SO",
+    "phone_number": "+91 93301 37955",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ajit Apartment, Sonarpur Station Rd, Mission Pally, Narendrapur, Kolkata, Rajpur Sonarpur, West Bengal 700150",
+    "area": "Mission Pally, Narendrapur",
+    "latitude": 22.4437934,
+    "longitude": 88.41626629999999,
+    "place_id": "ChIJmdER1ZhzAjoRE_TOwxuWwCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdER1ZhzAjoRE_TOwxuWwCE",
+    "part_id": "part_315",
+    "crawled_at": "2026-09-20 20:33:46"
+  }
+]

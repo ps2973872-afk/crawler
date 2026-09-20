@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "South Indian Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "700155",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "Barasat Division",
+    "major_offices": "Abdalpur SO",
+    "phone_number": "+91 94969 24630",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "MFVJ+2QC, Madhyamgram, Kolkata, West Bengal 700155",
+    "area": "Madhyamgram",
+    "latitude": 22.6925569,
+    "longitude": 88.4819053,
+    "place_id": "ChIJ-YZ1ruOh-DkRy-9eCC0WPrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-YZ1ruOh-DkRy-9eCC0WPrQ",
+    "part_id": "part_315",
+    "crawled_at": "2026-09-20 20:38:25"
+  }
+]
