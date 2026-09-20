@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Sagar Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Mughlai restaurant",
+    "all_categories": "Mughlai restaurant",
+    "pincode": "700133",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "Barasat Division",
+    "major_offices": "Michealnagar SO",
+    "phone_number": "+91 93306 33504",
+    "website": "http://sagarrestaurant.co.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "bus stop, 76/2B, Bidhan Sarani Rd, near P C Chandra Rupbani, Sovabazar, Goa Bagan, Kolkata, West Bengal 700006",
+    "area": "Sovabazar, Goa Bagan",
+    "latitude": 22.5930194,
+    "longitude": 88.3706098,
+    "place_id": "ChIJm1Y-d5F3AjoRDvPJlRH0p5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm1Y-d5F3AjoRDvPJlRH0p5U",
+    "part_id": "part_315",
+    "crawled_at": "2026-09-20 20:21:37"
+  }
+]
