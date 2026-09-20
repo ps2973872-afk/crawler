@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "H2O Fitness Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "712137",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Hooghly South Division",
+    "major_offices": "Gondalpara SO",
+    "phone_number": "+91 98100 99244",
+    "website": "https://h2ofitness.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Unnamed Road, Singur, West Bengal 712409",
+    "area": "Singur",
+    "latitude": 22.8050347,
+    "longitude": 88.2301107,
+    "place_id": "ChIJ0bOeqJmJ-DkROGM8bSmUdd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bOeqJmJ-DkROGM8bSmUdd4",
+    "part_id": "part_317",
+    "crawled_at": "2026-09-20 20:22:45"
+  }
+]

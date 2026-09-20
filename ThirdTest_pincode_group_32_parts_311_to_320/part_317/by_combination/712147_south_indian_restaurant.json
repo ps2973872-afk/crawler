@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Hungry Hut",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, South Indian restaurant",
+    "pincode": "712147",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Hooghly North Division",
+    "major_offices": "Itachuna SO, Chatosarsa BO, Haridaspur BO",
+    "phone_number": "+91 62908 81813",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 6,
+    "address": "Tribane Ghat road, Monipaler goli, behind Basudebpur, Tribeni, West Bengal 712503",
+    "area": "Tribeni",
+    "latitude": 22.9845406,
+    "longitude": 88.39086209999999,
+    "place_id": "ChIJ28bgB3CT-DkROYPGmt6bCxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ28bgB3CT-DkROYPGmt6bCxo",
+    "part_id": "part_317",
+    "crawled_at": "2026-09-20 20:25:10"
+  }
+]

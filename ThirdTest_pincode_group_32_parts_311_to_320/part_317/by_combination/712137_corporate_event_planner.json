@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "712137",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Hooghly South Division",
+    "major_offices": "Gondalpara SO",
+    "phone_number": "N/A",
+    "website": "https://gaisa.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "events, 712137, India",
+    "area": "712137",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJw0jCmGzjLIIRR_3-jRbVEKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw0jCmGzjLIIRR_3-jRbVEKw",
+    "part_id": "part_317",
+    "crawled_at": "2026-09-20 20:22:57"
+  }
+]
