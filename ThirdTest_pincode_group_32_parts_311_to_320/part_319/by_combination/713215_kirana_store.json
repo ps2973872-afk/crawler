@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Sujita Store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "713215",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Asansol Division",
+    "major_offices": "Angadpur SO, Durgapur Brick Field SO",
+    "phone_number": "+91 86170 80532",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Industrial Area, Durgapur, West Bengal 713215",
+    "area": "Industrial Area",
+    "latitude": 23.5111533,
+    "longitude": 87.2840578,
+    "place_id": "ChIJKUEohS9z9zkRVSAAL_Ci8GQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUEohS9z9zkRVSAAL_Ci8GQ",
+    "part_id": "part_319",
+    "crawled_at": "2026-09-20 20:34:48"
+  }
+]

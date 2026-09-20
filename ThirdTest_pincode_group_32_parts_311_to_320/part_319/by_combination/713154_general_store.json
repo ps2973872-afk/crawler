@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "RK General Store",
+    "search_category": "General Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "713154",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Burdwan Division",
+    "major_offices": "Amadpur SO",
+    "phone_number": "+91 98117 65878",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "83CX+XVM, Mirzapur, Barapalashan, West Bengal 713422",
+    "area": "Mirzapur",
+    "latitude": 23.3224554,
+    "longitude": 88.0996852,
+    "place_id": "ChIJGynYQwBV-DkREw3cPo92XaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGynYQwBV-DkREw3cPo92XaQ",
+    "part_id": "part_319",
+    "crawled_at": "2026-09-20 20:24:39"
+  }
+]
