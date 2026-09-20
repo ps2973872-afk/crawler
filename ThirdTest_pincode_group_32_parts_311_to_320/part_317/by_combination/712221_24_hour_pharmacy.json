@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "JP Blue Print",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "712221",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Hooghly South Division",
+    "major_offices": "Angus SO",
+    "phone_number": "+91 79803 27689",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5/1, Champdani, Baidyabati, Kolkata, West Bengal 712222",
+    "area": "Champdani",
+    "latitude": 22.7997192,
+    "longitude": 88.3483423,
+    "place_id": "ChIJLzQa152a-DkRSqURQYUyDVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzQa152a-DkRSqURQYUyDVY",
+    "part_id": "part_317",
+    "crawled_at": "2026-09-20 20:30:59"
+  }
+]

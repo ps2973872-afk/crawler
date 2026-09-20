@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Your Real Estate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Service establishment",
+    "pincode": "712221",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Hooghly South Division",
+    "major_offices": "Angus SO",
+    "phone_number": "N/A",
+    "website": "https://www.yourrealestate.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Your Real Estate, 712221, India",
+    "area": "712221",
+    "latitude": 24.374074399999998,
+    "longitude": 87.85113779999999,
+    "place_id": "ChIJXV3Q1hQc5SoRGrRcnZMOJvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXV3Q1hQc5SoRGrRcnZMOJvw",
+    "part_id": "part_317",
+    "crawled_at": "2026-09-20 20:31:22"
+  }
+]

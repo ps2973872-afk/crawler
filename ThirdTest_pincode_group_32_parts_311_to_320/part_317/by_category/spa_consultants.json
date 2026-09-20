@@ -46,5 +46,29 @@
     "part_id": "part_317",
     "crawled_at": "2026-09-20 20:17:20",
     "s_no": 3582
+  },
+  {
+    "business_name": "Baidyabati, West Bengal 712222",
+    "search_category": "Spa Consultants",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "712222",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Hooghly South Division",
+    "major_offices": "Baidyabati SO, Champdani SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baidyabati, West Bengal",
+    "area": "712222",
+    "latitude": 22.795783,
+    "longitude": 88.3190717,
+    "place_id": "ChIJRetqrqqa-DkRj9Jd7zTwJHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRetqrqqa-DkRj9Jd7zTwJHk",
+    "part_id": "part_317",
+    "crawled_at": "2026-09-20 20:31:49",
+    "s_no": 31425
   }
 ]

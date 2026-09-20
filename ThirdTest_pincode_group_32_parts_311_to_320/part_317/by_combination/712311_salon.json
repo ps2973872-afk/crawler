@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Fancy Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "712311",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Hooghly South Division",
+    "major_offices": "Dankuni SO, Mrigala BO, Garalgacha BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "M7PC+HFC, Gobra, Barijhati, West Bengal 712702",
+    "area": "Gobra",
+    "latitude": 22.6864471,
+    "longitude": 88.2711406,
+    "place_id": "ChIJN2ZWg0WD-DkRH_1vjst98d0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2ZWg0WD-DkRH_1vjst98d0",
+    "part_id": "part_317",
+    "crawled_at": "2026-09-20 20:44:53"
+  }
+]
