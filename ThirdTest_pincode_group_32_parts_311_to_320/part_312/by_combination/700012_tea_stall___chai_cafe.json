@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Sunny Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "700012",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "Kolkata Central Division",
+    "major_offices": "Bowbazar SO Kolkata, Yogayog Bhawan SO, Sankaritola SO",
+    "phone_number": "+91 81003 56346",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "124, SN Banerjee Road, Esplanade, Taltala, Kolkata, West Bengal 700013",
+    "area": "Esplanade, Taltala",
+    "latitude": 22.5620501,
+    "longitude": 88.3562137,
+    "place_id": "ChIJo4-DDwB3AjoRAfUa5prtNZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4-DDwB3AjoRAfUa5prtNZU",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:42:40"
+  }
+]

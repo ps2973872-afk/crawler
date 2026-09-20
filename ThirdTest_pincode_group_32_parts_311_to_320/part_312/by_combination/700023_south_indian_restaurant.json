@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Ann Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Fast food restaurant",
+    "pincode": "700023",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "Alipore H.O Division",
+    "major_offices": "Raja J.N.Market S.O, Khiddirpore SO, Watgunge SO",
+    "phone_number": "+91 98363 32301",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop 4, College Rd, near B.Collage, Shalimar, Howrah, West Bengal 711103",
+    "area": "Shalimar",
+    "latitude": 22.5576631,
+    "longitude": 88.3073493,
+    "place_id": "ChIJrUeRTgR5AjoRmReZICkuK4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrUeRTgR5AjoRmReZICkuK4w",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:52:19"
+  }
+]

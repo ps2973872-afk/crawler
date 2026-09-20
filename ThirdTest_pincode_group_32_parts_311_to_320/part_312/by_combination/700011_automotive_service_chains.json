@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Jugal Auto Traders",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "700011",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "Kolkata East Division",
+    "major_offices": "Narkeldanga SO",
+    "phone_number": "+91 33 2236 4942",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "6, Esplanade, Prince Street, Chowringhee North, Bow Barracks, Kolkata, West Bengal 700001",
+    "area": "Esplanade, Chowringhee North, Bow Barracks",
+    "latitude": 22.567817299999998,
+    "longitude": 88.3537023,
+    "place_id": "ChIJc1VzvKh3AjoR9s45LJeaiTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1VzvKh3AjoR9s45LJeaiTA",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:42:07"
+  }
+]

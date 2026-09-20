@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Amul",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "700017",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "Kolkata Central Division",
+    "major_offices": "Shakespeare Sarani SO, Circus Avenue SO, Jhowtala SO",
+    "phone_number": "+91 1800 258 3333",
+    "website": "https://amul.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "32, Samsul Huda Rd, Park Circus, Ballygunge, Kolkata, West Bengal 700017",
+    "area": "Park Circus, Ballygunge",
+    "latitude": 22.5381715,
+    "longitude": 88.36623589999999,
+    "place_id": "ChIJ_0gIRN52AjoR3iuZH_Qqjnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0gIRN52AjoR3iuZH_Qqjnw",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:47:05"
+  }
+]

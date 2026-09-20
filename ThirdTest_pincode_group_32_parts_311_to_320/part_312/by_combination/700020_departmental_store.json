@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Agarwal Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Grocery store",
+    "pincode": "700020",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Kolkata Division",
+    "major_offices": "LRSarani SO, AJCBose Road SO, Gokhel Road SO",
+    "phone_number": "+91 33 2486 9999",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Shop No.2, 1A, Ganga Prasad Mukherjee Rd, Paddapukur, Bhowanipore, Kolkata, West Bengal 700025",
+    "area": "Paddapukur, Bhowanipore",
+    "latitude": 22.5329516,
+    "longitude": 88.346705,
+    "place_id": "ChIJJ05iOTl3AjoR6rAC7fNkM8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ05iOTl3AjoR6rAC7fNkM8s",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:49:40"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "The Smiley Car",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car detailing service",
+    "all_categories": "Car detailing service",
+    "pincode": "700013",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "Kolkata Central Division",
+    "major_offices": "Dharmatala SO",
+    "phone_number": "N/A",
+    "website": "https://www.thesmileycar.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "38, Ganesh Chandra Ave, Chandni Chawk, Bowbazar, Kolkata, West Bengal 700013",
+    "area": "Chandni Chawk, Bowbazar",
+    "latitude": 22.5660219,
+    "longitude": 88.3578951,
+    "place_id": "ChIJZwgoIKp3AjoRVOGmcBqif9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZwgoIKp3AjoRVOGmcBqif9g",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:43:50"
+  }
+]

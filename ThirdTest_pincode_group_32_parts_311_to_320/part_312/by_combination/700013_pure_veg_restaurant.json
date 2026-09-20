@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Desi Cuisine",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Indian restaurant, Indian takeaway",
+    "pincode": "700013",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "Kolkata Central Division",
+    "major_offices": "Dharmatala SO",
+    "phone_number": "+91 79804 59197",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 192,
+    "address": "11, Harish Mukherjee Rd, Bhowanipore, Kolkata, West Bengal 700025",
+    "area": "Bhowanipore",
+    "latitude": 22.537479599999998,
+    "longitude": 88.3443236,
+    "place_id": "ChIJI0NrnD93AjoROHtBa185Az4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI0NrnD93AjoROHtBa185Az4",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:43:36"
+  }
+]
