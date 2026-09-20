@@ -3142,5 +3142,29 @@
     "part_id": "part_317",
     "crawled_at": "2026-09-20 20:47:20",
     "s_no": 49811
+  },
+  {
+    "business_name": "Inksquare tattoo & art studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo and piercing shop",
+    "all_categories": "Tattoo and piercing shop",
+    "pincode": "712406",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Hooghly North Division",
+    "major_offices": "Khanakul SO, Hirapur BO, Kedarpur BO",
+    "phone_number": "+91 86173 74550",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "GMRG+G3J, Raghunathpur North, Raghunathpur, West Bengal 723133",
+    "area": "Raghunathpur North",
+    "latitude": 23.5412979,
+    "longitude": 86.6751216,
+    "place_id": "ChIJsXxyvR3v9jkRJ3j9GB8bSr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsXxyvR3v9jkRJ3j9GB8bSr8",
+    "part_id": "part_317",
+    "crawled_at": "2026-09-20 20:49:08",
+    "s_no": 51322
   }
 ]

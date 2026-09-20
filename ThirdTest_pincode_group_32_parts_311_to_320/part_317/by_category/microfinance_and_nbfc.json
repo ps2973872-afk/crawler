@@ -814,5 +814,29 @@
     "part_id": "part_317",
     "crawled_at": "2026-09-20 20:44:25",
     "s_no": 45234
+  },
+  {
+    "business_name": "Bandhan Bank",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "712406",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Hooghly North Division",
+    "major_offices": "Khanakul SO, Hirapur BO, Kedarpur BO",
+    "phone_number": "+91 1800 258 8181",
+    "website": "https://bandhanbank.com/branch/madhyarang",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "MRFP+8XC, Vill- Madhyarang, PS-Khanakul, PO-Rajhati, Dist, Madhyarang, West Bengal 712417",
+    "area": "712406",
+    "latitude": 22.673199999999998,
+    "longitude": 87.83743,
+    "place_id": "ChIJ2_KzUD4L-DkRM6C_4cteKWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_KzUD4L-DkRM6C_4cteKWI",
+    "part_id": "part_317",
+    "crawled_at": "2026-09-20 20:49:15",
+    "s_no": 51614
   }
 ]

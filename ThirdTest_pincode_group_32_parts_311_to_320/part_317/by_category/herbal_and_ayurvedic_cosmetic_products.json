@@ -4558,5 +4558,29 @@
     "part_id": "part_317",
     "crawled_at": "2026-09-20 20:47:20",
     "s_no": 49812
+  },
+  {
+    "business_name": "Herb Adda",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Ayurvedic clinic, Herbal medicine store, Homeopathic pharmacy, Medical supply store, Organic drug store, Pain management physician, Pharmacy, Veterinary pharmacy, Vitamin & supplements store",
+    "pincode": "712405",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Hooghly South Division",
+    "major_offices": "Khamarchandi SO, Bahirkhand BO, Bajitpur BO",
+    "phone_number": "+91 75183 85868",
+    "website": "https://herbadda.com/",
+    "rating": 4.9,
+    "reviews_count": 118,
+    "address": "Gate No. 3, Iffco, Beer Kaji, Phulpur, Uttar Pradesh 212404",
+    "area": "712405",
+    "latitude": 25.5306195,
+    "longitude": 82.0634401,
+    "place_id": "ChIJ3cSljhqvmjkRKj9BkaA2TuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3cSljhqvmjkRKj9BkaA2TuU",
+    "part_id": "part_317",
+    "crawled_at": "2026-09-20 20:47:56",
+    "s_no": 50433
   }
 ]

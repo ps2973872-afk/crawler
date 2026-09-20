@@ -5110,5 +5110,29 @@
     "part_id": "part_317",
     "crawled_at": "2026-09-20 20:47:23",
     "s_no": 49867
+  },
+  {
+    "business_name": "Flower HUB Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "712406",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Hooghly North Division",
+    "major_offices": "Khanakul SO, Hirapur BO, Kedarpur BO",
+    "phone_number": "+91 84362 76174",
+    "website": "https://www.facebook.com/profile.php?id=100064181166490&mibextid=ZbWKwL",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shimultala, Roy Colony, Kaliyaganj, West Bengal 733129",
+    "area": "Shimultala, Roy Colony",
+    "latitude": 25.6255119,
+    "longitude": 88.32313839999999,
+    "place_id": "ChIJmZ7Cfjkt-zkRbomOlg-MIVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZ7Cfjkt-zkRbomOlg-MIVw",
+    "part_id": "part_317",
+    "crawled_at": "2026-09-20 20:49:08",
+    "s_no": 51372
   }
 ]

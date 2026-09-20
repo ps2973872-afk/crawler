@@ -2854,5 +2854,29 @@
     "part_id": "part_317",
     "crawled_at": "2026-09-20 20:46:34",
     "s_no": 48599
+  },
+  {
+    "business_name": "NephroPlus Dialysis & Kidney Care Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "712406",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Hooghly North Division",
+    "major_offices": "Khanakul SO, Hirapur BO, Kedarpur BO",
+    "phone_number": "+91 72079 02118",
+    "website": "https://www.nephroplus.com/",
+    "rating": 4.6,
+    "reviews_count": 20,
+    "address": "S.E, Railways Main Hospital, South Side, Kharagpur, West Bengal 721301",
+    "area": "South Side",
+    "latitude": 22.3343687,
+    "longitude": 87.3149701,
+    "place_id": "ChIJmTgYZYNFHToRhBANKMCRQyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmTgYZYNFHToRhBANKMCRQyE",
+    "part_id": "part_317",
+    "crawled_at": "2026-09-20 20:48:59",
+    "s_no": 51006
   }
 ]
