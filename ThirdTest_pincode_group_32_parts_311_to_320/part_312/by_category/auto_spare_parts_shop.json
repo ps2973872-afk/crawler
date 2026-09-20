@@ -11494,5 +11494,29 @@
     "part_id": "part_312",
     "crawled_at": "2026-09-20 20:56:38",
     "s_no": 74728
+  },
+  {
+    "business_name": "Super Automax",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "700029",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Kolkata Division",
+    "major_offices": "Sarat Bose Road SO, Rash Behari Avenue SO, Dover Lane SO",
+    "phone_number": "+91 33 2413 4057",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "51/19, P G M Shah Road, P G M Shah Road, Kolkata, West Bengal 700095",
+    "area": "Madar Tala Colony, Tollygunge",
+    "latitude": 22.500059699999998,
+    "longitude": 88.3571151,
+    "place_id": "ChIJVVVV5d9wAjoRX2URS6u4TLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVV5d9wAjoRX2URS6u4TLc",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:58:58",
+    "s_no": 76830
   }
 ]

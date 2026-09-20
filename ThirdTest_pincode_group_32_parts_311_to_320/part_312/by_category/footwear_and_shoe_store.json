@@ -10942,5 +10942,29 @@
     "part_id": "part_312",
     "crawled_at": "2026-09-20 20:56:31",
     "s_no": 74137
+  },
+  {
+    "business_name": "Hush Puppies Store - South City Mall, Kolkata",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Bag shop, Belt shop, Boot store, Clothing store",
+    "pincode": "700029",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Kolkata Division",
+    "major_offices": "Sarat Bose Road SO, Rash Behari Avenue SO, Dover Lane SO",
+    "phone_number": "+91 98311 06749",
+    "website": "https://stores.bata.com/hush-puppies-shoes-sandals-store-in-jadavpur-kolkata",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Second Floor, No. S222 & 375, Prince Anwar Shah Rd, South City Complex, Jadavpur, Kolkata, West Bengal 700068",
+    "area": "South City Complex, Jadavpur",
+    "latitude": 22.501485199999998,
+    "longitude": 88.3617446,
+    "place_id": "ChIJQRG9i9hwAjoRDtF5PB5iIB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRG9i9hwAjoRDtF5PB5iIB4",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:58:49",
+    "s_no": 76712
   }
 ]

@@ -5734,5 +5734,29 @@
     "part_id": "part_312",
     "crawled_at": "2026-09-20 20:56:35",
     "s_no": 74491
+  },
+  {
+    "business_name": "ABM ENT CLINIC",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Doctor",
+    "pincode": "700029",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Kolkata Division",
+    "major_offices": "Sarat Bose Road SO, Rash Behari Avenue SO, Dover Lane SO",
+    "phone_number": "+91 90515 39917",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 6,
+    "address": "6/19 A Poddar Nagar ground floor Kolkata 700068, near, Prince Anwar Shah Rd, Taltala, Kolkata, West Bengal 700068",
+    "area": "Katju Nagar, Taltala",
+    "latitude": 22.5020448,
+    "longitude": 88.3646772,
+    "place_id": "ChIJfe9epSdxAjoRocE7FsEMV0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfe9epSdxAjoRocE7FsEMV0U",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:58:55",
+    "s_no": 76800
   }
 ]

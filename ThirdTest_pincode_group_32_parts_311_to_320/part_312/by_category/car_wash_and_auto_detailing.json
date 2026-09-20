@@ -8638,5 +8638,29 @@
     "part_id": "part_312",
     "crawled_at": "2026-09-20 20:56:36",
     "s_no": 74701
+  },
+  {
+    "business_name": "Shining Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "700029",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Kolkata Division",
+    "major_offices": "Sarat Bose Road SO, Rash Behari Avenue SO, Dover Lane SO",
+    "phone_number": "+91 70039 11345",
+    "website": "https://shiningcarwash.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Entry from lane, Daily Market, Uday Shankar Sarani Rd, beside Bharat Bhavan, Madar Tala Colony, Golf Green, Kolkata, West Bengal 700095",
+    "area": "Madar Tala Colony, Golf Green",
+    "latitude": 22.497038,
+    "longitude": 88.356957,
+    "place_id": "ChIJVyO37hdxAjoRSBp2mlycAwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVyO37hdxAjoRSBp2mlycAwk",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:58:55",
+    "s_no": 76814
   }
 ]

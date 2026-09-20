@@ -5854,5 +5854,29 @@
     "part_id": "part_312",
     "crawled_at": "2026-09-20 20:56:39",
     "s_no": 75000
+  },
+  {
+    "business_name": "*ROY SANITARY STORES*",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "700029",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Kolkata Division",
+    "major_offices": "Sarat Bose Road SO, Rash Behari Avenue SO, Dover Lane SO",
+    "phone_number": "+91 83360 10597",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "bus stop, 20/2a/1, K P Roy Lane, and, opposite of spice of joy restaurant, beside of Howrah Bridge Restaurant, Sahid Nagar, Thana, West Bengal 700031",
+    "area": "Sahid Nagar, Garfa",
+    "latitude": 22.5033299,
+    "longitude": 88.37649259999999,
+    "place_id": "ChIJJ8bVtzlxAjoRVPVDGYMv8to",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8bVtzlxAjoRVPVDGYMv8to",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:58:59",
+    "s_no": 76846
   }
 ]

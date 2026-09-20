@@ -6526,5 +6526,29 @@
     "part_id": "part_312",
     "crawled_at": "2026-09-20 20:56:28",
     "s_no": 73944
+  },
+  {
+    "business_name": "DHAKESWARI BASTRALAYA",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Women's clothing store",
+    "pincode": "700029",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Kolkata Division",
+    "major_offices": "Sarat Bose Road SO, Rash Behari Avenue SO, Dover Lane SO",
+    "phone_number": "+91 89021 21576",
+    "website": "https://dhakeswaribastralaya.com/",
+    "rating": 4.2,
+    "reviews_count": 2752,
+    "address": "208/9, Rash Behari Ave, Golpark, Hindustan Park, Gariahat, Kolkata, West Bengal 700029",
+    "area": "Golpark, Hindustan Park, Gariahat",
+    "latitude": 22.519311899999998,
+    "longitude": 88.3648024,
+    "place_id": "ChIJN689_t13AjoRJh81WGLRpLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN689_t13AjoRJh81WGLRpLs",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:58:47",
+    "s_no": 76700
   }
 ]

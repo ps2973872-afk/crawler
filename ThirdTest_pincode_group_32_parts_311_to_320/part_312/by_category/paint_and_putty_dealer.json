@@ -4822,5 +4822,29 @@
     "part_id": "part_312",
     "crawled_at": "2026-09-20 20:56:40",
     "s_no": 75016
+  },
+  {
+    "business_name": "Berger Paints Home",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "700029",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Kolkata Division",
+    "major_offices": "Sarat Bose Road SO, Rash Behari Avenue SO, Dover Lane SO",
+    "phone_number": "+91 1800 103 6030",
+    "website": "https://www.bergerpaints.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "75/A, Bikramgarh, Golf Green, Kolkata, West Bengal 700095",
+    "area": "Bikramgarh, Golf Green",
+    "latitude": 22.497246399999998,
+    "longitude": 88.3607696,
+    "place_id": "ChIJkfyMjihxAjoRQFsg4KRXvYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkfyMjihxAjoRQFsg4KRXvYA",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:59:00",
+    "s_no": 76847
   }
 ]

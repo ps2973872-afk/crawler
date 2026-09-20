@@ -9430,5 +9430,29 @@
     "part_id": "part_312",
     "crawled_at": "2026-09-20 20:56:36",
     "s_no": 74630
+  },
+  {
+    "business_name": "Forever Fit Workout",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Fitness center, Gym, Yoga instructor, Yoga Retreat Center",
+    "pincode": "700029",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Kolkata Division",
+    "major_offices": "Sarat Bose Road SO, Rash Behari Avenue SO, Dover Lane SO",
+    "phone_number": "+91 72788 63222",
+    "website": "https://foreverfitworkout.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "22, 269, Jodhpur Park, Kolkata, West Bengal 700045",
+    "area": "Jodhpur Park",
+    "latitude": 22.504037999999998,
+    "longitude": 88.3621577,
+    "place_id": "ChIJIYwWxMVxAjoRTuWT0IxHOPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIYwWxMVxAjoRTuWT0IxHOPY",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:58:56",
+    "s_no": 76810
   }
 ]

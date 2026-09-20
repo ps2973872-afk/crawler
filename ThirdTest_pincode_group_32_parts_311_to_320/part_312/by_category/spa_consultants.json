@@ -334,5 +334,29 @@
     "part_id": "part_312",
     "crawled_at": "2026-09-20 20:55:57",
     "s_no": 73106
+  },
+  {
+    "business_name": "BoB Ayur Consultancy salt lake",
+    "search_category": "Spa Consultants",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Ayurvedic clinic, Beauty Parlour, Beauty school, Cosmetics wholesaler, Hair replacement service, Make-up artist, Nail salon",
+    "pincode": "700029",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Kolkata Division",
+    "major_offices": "Sarat Bose Road SO, Rash Behari Avenue SO, Dover Lane SO",
+    "phone_number": "+91 98311 90421",
+    "website": "https://bobayur.com/",
+    "rating": 4.3,
+    "reviews_count": 136,
+    "address": "7/1, Jadunath Sarkar Rd, lake Terrace, Ballygunge, Kolkata, West Bengal 700029",
+    "area": "lake Terrace, Ballygunge",
+    "latitude": 22.516207599999998,
+    "longitude": 88.353473,
+    "place_id": "ChIJ69VOUy13AjoRM69NrbNs-9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ69VOUy13AjoRM69NrbNs-9I",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:59:06",
+    "s_no": 76906
   }
 ]

@@ -8134,5 +8134,29 @@
     "part_id": "part_312",
     "crawled_at": "2026-09-20 20:56:29",
     "s_no": 74038
+  },
+  {
+    "business_name": "MYRA - Gariahat",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "700029",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Kolkata Division",
+    "major_offices": "Sarat Bose Road SO, Rash Behari Avenue SO, Dover Lane SO",
+    "phone_number": "+91 90515 74622",
+    "website": "http://www.myraonline.in/",
+    "rating": 4.8,
+    "reviews_count": 153,
+    "address": "13C, Hindustan Park Rd, Gariahat, Kolkata, West Bengal 700029",
+    "area": "Gariahat",
+    "latitude": 22.520162,
+    "longitude": 88.3621548,
+    "place_id": "ChIJiXIKcSp3AjoRJRXZcbWpGdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiXIKcSp3AjoRJRXZcbWpGdE",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:58:48",
+    "s_no": 76711
   }
 ]

@@ -5086,5 +5086,29 @@
     "part_id": "part_312",
     "crawled_at": "2026-09-20 20:56:30",
     "s_no": 74095
+  },
+  {
+    "business_name": "BlueStone Jewellery South City Mall, Kolkata",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Diamond Merchant, Goldsmith, Jeweler, Jewelry repair service, Silversmith",
+    "pincode": "700029",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Kolkata Division",
+    "major_offices": "Sarat Bose Road SO, Rash Behari Avenue SO, Dover Lane SO",
+    "phone_number": "+91 80971 55463",
+    "website": "https://www.bluestone.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st floor, SS16, Prince Anwar Shah Rd, South City Complex, Jadavpur, Kolkata, West Bengal 700068",
+    "area": "South City Complex, Jadavpur",
+    "latitude": 22.501663999999998,
+    "longitude": 88.361498,
+    "place_id": "ChIJx6kkWMlxAjoROG3j8FQmgtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6kkWMlxAjoROG3j8FQmgtA",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:58:49",
+    "s_no": 76710
   }
 ]

@@ -2854,5 +2854,29 @@
     "part_id": "part_312",
     "crawled_at": "2026-09-20 20:56:34",
     "s_no": 74596
+  },
+  {
+    "business_name": "Surgical Centre",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "700029",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Kolkata Division",
+    "major_offices": "Sarat Bose Road SO, Rash Behari Avenue SO, Dover Lane SO",
+    "phone_number": "+91 33 2429 6320",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "4A, Uday Sankar Sarani, Madar Tala Colony, Tollygunge, Kolkata, West Bengal 700095",
+    "area": "Madar Tala Colony, Tollygunge",
+    "latitude": 22.4975637,
+    "longitude": 88.35709179999999,
+    "place_id": "ChIJLVIOBXBxAjoR3c1qVbZra50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLVIOBXBxAjoR3c1qVbZra50",
+    "part_id": "part_312",
+    "crawled_at": "2026-09-20 20:58:54",
+    "s_no": 76809
   }
 ]
