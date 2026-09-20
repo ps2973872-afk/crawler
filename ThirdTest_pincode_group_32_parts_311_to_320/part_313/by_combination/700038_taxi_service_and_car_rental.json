@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Online Cab",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "700038",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Kolkata Division",
+    "major_offices": "Sahapur SO",
+    "phone_number": "+91 98362 77197",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "13/5, Sahapur, New Alipore, Kolkata, West Bengal 700053",
+    "area": "Sahapur, New Alipore",
+    "latitude": 22.509022599999998,
+    "longitude": 88.3315674,
+    "place_id": "ChIJWwWSKqxxAjoR7OC0QPvkMLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWwWSKqxxAjoR7OC0QPvkMLc",
+    "part_id": "part_313",
+    "crawled_at": "2026-09-20 20:22:42"
+  }
+]
