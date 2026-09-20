@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Tasty Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "695572",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Trivandrum South Division",
+    "major_offices": "Kattakada SO, Amachal BO, Ambalathinkala BO",
+    "phone_number": "+91 96339 65777",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "NH Bypass Service Rd, Eanchakkal, Thiruvananthapuram, Keralam 695024",
+    "area": "Eanchakkal",
+    "latitude": 8.4861513,
+    "longitude": 76.92793859999999,
+    "place_id": "ChIJ00eJav67BTsRrEEyPrwjiqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ00eJav67BTsRrEEyPrwjiqE",
+    "part_id": "part_311",
+    "crawled_at": "2026-09-20 20:48:58"
+  }
+]

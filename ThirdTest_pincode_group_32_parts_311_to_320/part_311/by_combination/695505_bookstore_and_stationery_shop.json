@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Seema Books",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "695505",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Trivandrum South Division",
+    "major_offices": "Vellarada SO, Amboori BO, Karikuzhi BO",
+    "phone_number": "+91 70124 30802",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Police Station, Vellarada, Keralam 695505",
+    "area": "695505",
+    "latitude": 8.443700399999999,
+    "longitude": 77.1954629,
+    "place_id": "ChIJxdjyRItTBDsRmpdCksk2KS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdjyRItTBDsRmpdCksk2KS0",
+    "part_id": "part_311",
+    "crawled_at": "2026-09-20 20:29:09"
+  }
+]

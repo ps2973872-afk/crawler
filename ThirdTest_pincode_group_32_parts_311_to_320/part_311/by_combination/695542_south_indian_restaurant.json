@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Rakhi Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Kerala restaurant",
+    "all_categories": "Kerala restaurant",
+    "pincode": "695542",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Trivandrum South Division",
+    "major_offices": "Aryanad SO, Changa BO, Kokkotela BO",
+    "phone_number": "+91 96336 58004",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "H463+HHV, Paruthippally, Keralam 695574",
+    "area": "695542",
+    "latitude": 8.5614825,
+    "longitude": 77.1039373,
+    "place_id": "ChIJ_wWBlSe0BTsRceeRIukvU-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_wWBlSe0BTsRceeRIukvU-c",
+    "part_id": "part_311",
+    "crawled_at": "2026-09-20 20:40:50"
+  }
+]

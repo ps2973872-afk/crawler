@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Blue Moon Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "695528",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Trivandrum South Division",
+    "major_offices": "Naruvamoodu SO",
+    "phone_number": "+91 75580 04722",
+    "website": "http://www.bluemoontaxiservice.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mylackal, Venjarammoodu, Nellanad, Keralam 695607",
+    "area": "Mylackal",
+    "latitude": 8.6896386,
+    "longitude": 76.9180405,
+    "place_id": "ChIJQzLFIWbBBTsRGAWKcII5ICs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQzLFIWbBBTsRGAWKcII5ICs",
+    "part_id": "part_311",
+    "crawled_at": "2026-09-20 20:39:30"
+  }
+]

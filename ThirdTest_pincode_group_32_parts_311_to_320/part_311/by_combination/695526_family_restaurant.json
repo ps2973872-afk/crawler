@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Food cart",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "695526",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Trivandrum South Division",
+    "major_offices": "Pulluvila SO, Kazhavur BO, Puthiathura BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Venkulam, Uchakkada - Nellimoodu Rd, Trivandrum, Athiyannur, Kerala 695524",
+    "area": "695526",
+    "latitude": 8.3713462,
+    "longitude": 77.0487978,
+    "place_id": "ChIJ8Q61ROOvBTsRYEXbZ5hrlJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Q61ROOvBTsRYEXbZ5hrlJI",
+    "part_id": "part_311",
+    "crawled_at": "2026-09-20 20:37:37"
+  }
+]

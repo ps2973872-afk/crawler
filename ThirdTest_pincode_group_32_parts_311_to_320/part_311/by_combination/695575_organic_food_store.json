@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Tasty Juice Spot",
+    "search_category": "Organic Food Store",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "695575",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Trivandrum South Division",
+    "major_offices": "Poovachal SO, Panniyode BO, Punalal BO",
+    "phone_number": "+91 88915 88990",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Konniyoour Punalal, Po, Poovachal, Veeranakavu, Keralam 695575",
+    "area": "Po",
+    "latitude": 8.550874199999999,
+    "longitude": 77.0778679,
+    "place_id": "ChIJ-9Oyhzu3BTsRTM5gABvhg50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9Oyhzu3BTsRTM5gABvhg50",
+    "part_id": "part_311",
+    "crawled_at": "2026-09-20 20:50:59"
+  }
+]

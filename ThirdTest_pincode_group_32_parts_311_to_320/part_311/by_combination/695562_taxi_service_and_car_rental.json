@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "cab service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "695562",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Trivandrum South Division",
+    "major_offices": "Pacha SO, Elavattom BO, Exservicemens Colony BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mottal Vila Veedu, Christ Nagar Rd, Vazhayila, Thiruvananthapuram, Keralam 695564",
+    "area": "Vazhayila",
+    "latitude": 8.548980199999999,
+    "longitude": 76.9708852,
+    "place_id": "ChIJkbkkeDW5BTsRPvTt00YgK64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbkkeDW5BTsRPvTt00YgK64",
+    "part_id": "part_311",
+    "crawled_at": "2026-09-20 20:44:51"
+  }
+]

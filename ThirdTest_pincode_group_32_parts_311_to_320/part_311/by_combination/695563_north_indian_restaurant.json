@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "North Indian Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "695563",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Trivandrum South Division",
+    "major_offices": "Peringamala SO, Daivapura BO, Idinjar BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "M4JM+HQ5, Kerala 695551",
+    "area": "695563",
+    "latitude": 8.6813957,
+    "longitude": 77.13448439999999,
+    "place_id": "ChIJBSGm09LLBTsRD_liaQu67D8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBSGm09LLBTsRD_liaQu67D8",
+    "part_id": "part_311",
+    "crawled_at": "2026-09-20 20:45:22"
+  }
+]

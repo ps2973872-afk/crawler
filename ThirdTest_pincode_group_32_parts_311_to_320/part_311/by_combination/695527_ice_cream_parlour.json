@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Baskin-Robbins",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "695527",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Trivandrum South Division",
+    "major_offices": "Kovalam SO Thiruvananthapuram, Kovalam Beach BO",
+    "phone_number": "N/A",
+    "website": "https://baskinrobbinsindia.com/pages/store-locator",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hawa Beach, Light House Rd, Kovalam, Thiruvananthapuram, Kerala 695527",
+    "area": "695527",
+    "latitude": 8.38336,
+    "longitude": 76.9820491,
+    "place_id": "ChIJEza-c7ylBTsRUGfcoA4gT-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEza-c7ylBTsRUGfcoA4gT-I",
+    "part_id": "part_311",
+    "crawled_at": "2026-09-20 20:38:26"
+  }
+]

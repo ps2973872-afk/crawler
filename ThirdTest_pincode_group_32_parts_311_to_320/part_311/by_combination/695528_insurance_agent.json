@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "MEDCLAIM",
+    "search_category": "Insurance Agent",
+    "primary_category": "Health insurance agency",
+    "all_categories": "Health insurance agency, Service establishment",
+    "pincode": "695528",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Trivandrum South Division",
+    "major_offices": "Naruvamoodu SO",
+    "phone_number": "+91 70341 11103",
+    "website": "https://medclaim.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MEDCLAIM, 695528, India",
+    "area": "695528",
+    "latitude": 8.4996555,
+    "longitude": 76.9242809,
+    "place_id": "ChIJVQWNx6YeVSsROOMei6fEkzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQWNx6YeVSsROOMei6fEkzk",
+    "part_id": "part_311",
+    "crawled_at": "2026-09-20 20:39:48"
+  }
+]
