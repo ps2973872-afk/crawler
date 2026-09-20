@@ -1150,5 +1150,29 @@
     "part_id": "part_320",
     "crawled_at": "2026-09-20 20:44:56",
     "s_no": 49002
+  },
+  {
+    "business_name": "Purnima Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "713428",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Burdwan Division",
+    "major_offices": "Adrahati SO, Belan BO, Gohagram BO",
+    "phone_number": "+91 97346 64707",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 59,
+    "address": "RQR9+G99, Dakshin Chatra, West Bengal 743247",
+    "area": "713428",
+    "latitude": 22.8412786,
+    "longitude": 88.7684688,
+    "place_id": "ChIJG7t4Aeiy-DkRBYGOmVvncog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG7t4Aeiy-DkRBYGOmVvncog",
+    "part_id": "part_320",
+    "crawled_at": "2026-09-20 20:51:32",
+    "s_no": 55047
   }
 ]

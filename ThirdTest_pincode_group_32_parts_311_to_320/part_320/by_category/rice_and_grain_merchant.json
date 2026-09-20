@@ -2710,5 +2710,29 @@
     "part_id": "part_320",
     "crawled_at": "2026-09-20 20:44:21",
     "s_no": 48453
+  },
+  {
+    "business_name": "GOUR MAHAN RICE MILL",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "713426",
+    "circle": "West bengal circle",
+    "region": "South Bengal Region",
+    "division": "Burdwan Division",
+    "major_offices": "Bhandardihi BO, Faridpur BO, Kamarkita BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2R98+93F, Katnabil, Brahmandanga, West Bengal 713423",
+    "area": "713426",
+    "latitude": 23.018426899999998,
+    "longitude": 87.81516739999999,
+    "place_id": "ChIJkfvBawA_-DkRweBLdWr7If8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkfvBawA_-DkRweBLdWr7If8",
+    "part_id": "part_320",
+    "crawled_at": "2026-09-20 20:49:32",
+    "s_no": 53632
   }
 ]

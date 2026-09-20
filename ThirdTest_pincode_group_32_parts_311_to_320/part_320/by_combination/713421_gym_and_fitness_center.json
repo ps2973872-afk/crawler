@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Deno Helth Center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Fitness center",
+    "pincode": "713421",
+    "circle": "West bengal circle",
+    "region": "South Bengal Region",
+    "division": "Burdwan Division",
+    "major_offices": "Barabainan BO, Kamarhati BO, Pasanda BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "Deno Purba Para, Jamalpur, Nero, West Bengal 713421",
+    "area": "713421",
+    "latitude": 23.047511999999998,
+    "longitude": 87.9183992,
+    "place_id": "ChIJE7hJ-W1B-DkR9CNYENB2A0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7hJ-W1B-DkR9CNYENB2A0Y",
+    "part_id": "part_320",
+    "crawled_at": "2026-09-20 20:46:36"
+  }
+]

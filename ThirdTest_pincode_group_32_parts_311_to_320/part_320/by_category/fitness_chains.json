@@ -2806,5 +2806,29 @@
     "part_id": "part_320",
     "crawled_at": "2026-09-20 20:45:56",
     "s_no": 49840
+  },
+  {
+    "business_name": "Fit N Sports",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness Equipment Wholesaler",
+    "all_categories": "Fitness Equipment Wholesaler, Cricket shop, Exercise equipment store, Health food store, Outdoor sports store, Sporting goods store, Sports Accessories Wholesaler, Sports nutrition store, Store, Vitamin & supplements store",
+    "pincode": "713422",
+    "circle": "West bengal circle",
+    "region": "South Bengal Region",
+    "division": "Burdwan Division",
+    "major_offices": "Begpur BO, Bhagra BO, Bijur BO",
+    "phone_number": "+91 86177 30811",
+    "website": "http://www.fitnsports.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mira Garden, Madhyamgram, Meghdoot bus stop, Jessore Rd, Sisir Kunja, Madhyamgram, Kolkata, West Bengal 700129",
+    "area": "Sisir Kunja, Madhyamgram",
+    "latitude": 22.7019278,
+    "longitude": 88.4708777,
+    "place_id": "ChIJE9X3-wyf-DkREzw2xa3D92Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE9X3-wyf-DkREzw2xa3D92Y",
+    "part_id": "part_320",
+    "crawled_at": "2026-09-20 20:47:39",
+    "s_no": 51433
   }
 ]

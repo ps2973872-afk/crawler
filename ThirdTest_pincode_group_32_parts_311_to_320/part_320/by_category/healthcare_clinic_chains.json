@@ -2470,5 +2470,29 @@
     "part_id": "part_320",
     "crawled_at": "2026-09-20 20:44:33",
     "s_no": 48629
+  },
+  {
+    "business_name": "হেলথ্ কেয়ার ডায়াগনষ্টিক সেন্টার",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "713426",
+    "circle": "West bengal circle",
+    "region": "South Bengal Region",
+    "division": "Burdwan Division",
+    "major_offices": "Bhandardihi BO, Faridpur BO, Kamarkita BO",
+    "phone_number": "+91 94755 07863",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gourhati, West Bengal 712613",
+    "area": "713426",
+    "latitude": 22.7865102,
+    "longitude": 87.8007184,
+    "place_id": "ChIJfZ7O1I0N-DkRDzefuWSarw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZ7O1I0N-DkRDzefuWSarw4",
+    "part_id": "part_320",
+    "crawled_at": "2026-09-20 20:49:44",
+    "s_no": 53753
   }
 ]
