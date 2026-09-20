@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "App Event Planner",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "700050",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "Kolkata North Division",
+    "major_offices": "Sinthee SO, South Sinhee SO",
+    "phone_number": "+91 93300 14411",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Elita Garden Vista, Action Area III, Newtown, Kolkata, West Bengal 700135",
+    "area": "Action Area III, Newtown",
+    "latitude": 22.5674617,
+    "longitude": 88.5173858,
+    "place_id": "ChIJf4egiE8LAjoRLPo7FaIToWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4egiE8LAjoRLPo7FaIToWc",
+    "part_id": "part_313",
+    "crawled_at": "2026-09-20 20:32:11"
+  }
+]

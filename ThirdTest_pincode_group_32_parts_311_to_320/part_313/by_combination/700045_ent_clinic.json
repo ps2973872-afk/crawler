@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Saral Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "700045",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Kolkata Division",
+    "major_offices": "Lake Gardens SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "38, Lake Gardens Rd, Lake Gardens, Kolkata, West Bengal 700033",
+    "area": "Lake Gardens",
+    "latitude": 22.5031763,
+    "longitude": 88.35234899999999,
+    "place_id": "ChIJeXgiEs9wAjoRWas4qnbSWmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeXgiEs9wAjoRWas4qnbSWmw",
+    "part_id": "part_313",
+    "crawled_at": "2026-09-20 20:28:02"
+  }
+]

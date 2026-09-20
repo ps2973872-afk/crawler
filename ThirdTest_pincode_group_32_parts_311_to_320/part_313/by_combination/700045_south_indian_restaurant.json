@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Share Sambar",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "700045",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Kolkata Division",
+    "major_offices": "Lake Gardens SO",
+    "phone_number": "+91 89107 02121",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ground Floor, P-241, Lake Rd, lake Terrace, Ballygunge, Kolkata, West Bengal 700029",
+    "area": "lake Terrace, Ballygunge",
+    "latitude": 22.5151717,
+    "longitude": 88.3535637,
+    "place_id": "ChIJSdl-L1NxAjoRHWgHtvOGLIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSdl-L1NxAjoRHWgHtvOGLIs",
+    "part_id": "part_313",
+    "crawled_at": "2026-09-20 20:27:54"
+  }
+]

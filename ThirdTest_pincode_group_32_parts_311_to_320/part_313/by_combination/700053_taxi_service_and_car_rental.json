@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Getway CAB",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "700053",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Kolkata Division",
+    "major_offices": "New Alipore SO, Kalabagan SO, Kolkata Mint SO",
+    "phone_number": "+91 86555 58104",
+    "website": "https://www.getwaycab.com/",
+    "rating": 4.1,
+    "reviews_count": 10,
+    "address": "Shop no. 60, Harish Chatterjee St, Jatin Das Park, Patuapara, Bhowanipore, Kolkata, West Bengal 700025",
+    "area": "Jatin Das Park, Patuapara, Bhowanipore",
+    "latitude": 22.527770399999998,
+    "longitude": 88.3418743,
+    "place_id": "ChIJfZAfPV93AjoRbH3TIC-FlIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZAfPV93AjoRbH3TIC-FlIs",
+    "part_id": "part_313",
+    "crawled_at": "2026-09-20 20:34:10"
+  }
+]

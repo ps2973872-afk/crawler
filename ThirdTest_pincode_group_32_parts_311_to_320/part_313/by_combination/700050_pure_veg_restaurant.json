@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Gupta's Veg",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Fast food restaurant",
+    "pincode": "700050",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "Kolkata North Division",
+    "major_offices": "Sinthee SO, South Sinhee SO",
+    "phone_number": "+91 98830 41750",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "BC 1, VIP Rd, Rabindrapally, Kestopur, Kolkata, West Bengal 700101",
+    "area": "Rabindrapally, Kestopur",
+    "latitude": 22.6036902,
+    "longitude": 88.42473269999999,
+    "place_id": "ChIJ34ggN4x1AjoRBP9cvoGSfwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34ggN4x1AjoRBP9cvoGSfwA",
+    "part_id": "part_313",
+    "crawled_at": "2026-09-20 20:31:46"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Fixya Cloud Kitchen 1",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "700045",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "South Kolkata Division",
+    "major_offices": "Lake Gardens SO",
+    "phone_number": "N/A",
+    "website": "https://fixya.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sandha Villa, Jodhpur Park, Kolkata, West Bengal 700045",
+    "area": "Jodhpur Park",
+    "latitude": 22.502668,
+    "longitude": 88.360801,
+    "place_id": "ChIJuxa0QwBxAjoRRbP6rx70JTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuxa0QwBxAjoRRbP6rx70JTU",
+    "part_id": "part_313",
+    "crawled_at": "2026-09-20 20:27:53"
+  }
+]

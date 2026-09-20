@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Royal Realtors",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "700050",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "Kolkata North Division",
+    "major_offices": "Sinthee SO, South Sinhee SO",
+    "phone_number": "+91 84204 02078",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 99,
+    "address": "Street Number 195, CB Block(Newtown), Action Area 1C, Newtown, Kolkata, West Bengal 700107",
+    "area": "CB Block(Newtown), Action Area 1C, Newtown",
+    "latitude": 22.578154299999998,
+    "longitude": 88.46796309999999,
+    "place_id": "ChIJCVOSg691AjoRHsTWdbtzFkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCVOSg691AjoRHsTWdbtzFkE",
+    "part_id": "part_313",
+    "crawled_at": "2026-09-20 20:32:17"
+  }
+]
