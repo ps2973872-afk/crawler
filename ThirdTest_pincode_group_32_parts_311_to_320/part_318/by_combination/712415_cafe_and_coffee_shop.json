@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Cafe 1921",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Chinese noodle restaurant, Continental restaurant, Fast food restaurant, Juice shop, Pizza restaurant, Soft drinks shop",
+    "pincode": "712415",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Hooghly North Division",
+    "major_offices": "Saidpur SO Hooghly, Bhuerah BO, Harinkhola BO",
+    "phone_number": "+91 70447 22129",
+    "website": "https://cafe1921.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "1st Floor, Indrapuri Apartment, 82, SC Chatterjee St, near State Bank Of India, Konnagar, West Bengal 712235",
+    "area": "Konnagar",
+    "latitude": 22.7021801,
+    "longitude": 88.3447575,
+    "place_id": "ChIJBxS3J7Od-DkRJgVGDmwwAeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBxS3J7Od-DkRJgVGDmwwAeI",
+    "part_id": "part_318",
+    "crawled_at": "2026-09-20 20:22:23"
+  }
+]
